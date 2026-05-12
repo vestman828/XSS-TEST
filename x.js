@@ -1,2 +1,2 @@
 //alert(0)
-location.href=https://solved.ac/
+location.href="https://solved.ac/"
